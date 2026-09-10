@@ -1,2 +1,2 @@
-# LEDFlameLight
-LED Flame Light webpage
+# LEDFlameLight®
+LED Flame Light® webpage
