@@ -1,2 +1,7 @@
-# LEDFlameLight®
-LED Flame Light® webpage
+# LEDFlameLight
+LED Flame Light™ webpage
+
+
+
+
+archive  http://archive.today/pdFEt
